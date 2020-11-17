@@ -1,0 +1,59 @@
+*{margin:0; padding:0;}
+
+
+.clearfix{overflow:auto}
+
+body{
+	background-image:url(../images/i2.jpg);
+	background-size:cover; 
+ 	background-position:center;
+ 	color:#333 !important;
+}
+
+.logo h1{
+	position:absolute;
+	color:maroon;
+	top:10%;
+    font-size:48px;
+    font-weight:normal;
+    margin-left:87px; 
+    margin-top:10px;
+    letter-spacing:-1px;
+    font-variant:small-caps;
+}
+
+.image img{
+	width:300px;
+	margin-left:485px; 
+    height:auto;
+    border-radius: 75%;
+}
+
+.player{
+	  position:absolute;
+	top:8%;
+	right:5%;
+
+}
+
+ p{margin-top:10px;margin-bottom:15px;font-size:18px;color:#333;}
+ 
+ 	
+ div.supun{
+ 	width:1000px;
+ 	margin:50px;
+ 	margin-left:220px; 
+ }
+
+ div.supun div.music1{
+ 	width:500px;
+ 	float:left;
+ 	
+ }
+
+ div.supun div.music2{
+ 	width:485px;
+ 	float:left;
+ 
+ }
+ 
